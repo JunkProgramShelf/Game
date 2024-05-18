@@ -1,0 +1,85 @@
+/*
+
+*/
+
+
+/*TopPage style*/
+#Top_Title{
+}
+
+nav.Top_navigation{
+	height: 60px;
+	color:#111111;
+}
+
+ul.top_menu li{
+	display: inline;
+	padding: 10px;
+	list-style: none;
+}
+
+div.top_link{
+	border: 2px solid;
+	width: 500px;
+}
+
+
+/*Abstruct style*/
+ul.ab_menu li{
+	display: inline;
+	color: #0000ff;
+	list-style: none;
+	padding: 10px;
+	border: 1px solid #000000;
+}
+
+#ab_cipher_headline{
+	margin:5px;
+}
+
+#ab_cipher{
+	width: 650px;
+	height: 320px;
+}
+#ab_ai_headline{
+
+}
+#ab_ai{
+	width: 600px;
+	height: 320px;
+}
+#ab_comsec_headline{
+
+}
+#ab_comsec{
+	width: 600px;
+	height: 320px;
+}
+
+
+/*Member style*/
+
+
+/*Notfound404 style*/
+div{
+	display: flex;
+}
+div.GameFrameParam{
+	margin: 5px;
+}
+#Game_Status_Display{
+	height: 420px;
+	width: 420px;
+	border:1px solid #ff0000;
+	margin: 5px;
+}
+#MyCanvas{
+	width: 500px;
+	height: 500px;
+	border: 1px solid #000000;	
+	margin: 5px;
+}
+#reload404{
+	width: 80px;
+	height: 40px;
+}
