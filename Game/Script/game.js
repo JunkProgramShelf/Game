@@ -1,7 +1,7 @@
 /**
-*		HTTP Status 404 page
+*		
 *		Game source code
-*		Create by Yuito.M
+*		Create by JunkProgramShelf
 *		
 *
 */
